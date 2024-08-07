@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(230,131,105);
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+
+
+h1
+{
+    background: rgb(19, 24, 66);
+    
+}
+header
+{
+    text-align: center;
+    background: rgb(251, 246, 226);
+}
+
+.hehe{
+    color: red;
+}
+
+nav{
+    text-align: left;
+    color:rgb(19, 24, 66);
+   
+    background-color: rgb(19, 24, 66);
+}
+a{
+    color: aliceblue;
+}
+
+
+a:visited{
+    color: antiquewhite;
+}
+
+
